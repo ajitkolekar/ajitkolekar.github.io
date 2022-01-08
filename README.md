@@ -1,6 +1,7 @@
 <h2 align="center"> Hi there 👋 <br> My name is Ajit Kolekar</h2>
-<p align="center">I'm a data scientist and engineer at Applied Materials, putting the power of artificial intelligence and machine learning at the edge of the Industrial Internet of Things, Industry 4.0, and next-generation Smart Factory Automation. I specialize in early failure detection for machinery, prognostic analysis, dashboards, visualization, and exploratory data analysis. I’m looking to collaborate on data science projects, machine learning, and applications of data science in other fields
-</p>
+<p align="center">I'm a well rounded IT professional with 23 years of experience. I have variety of technical, business, and leadership experience while performing roles as Project Manager, Scrum Master, Data Analyst, Java Developer, Host Developer, Subject Matter Consultant, Systems Analyst, and Service Analyst.
+
+I have earned my Bachelors Degree in Electonics Engineering, Masters of Business Administation, and am currently working on Masters of Science in Data Science degree with expected completion date less than two months away! I believe in continuous learning and have earned several designations and certifications, such as PMP, CSM, SAFe Agilist, SASM, CPCU, ChFC, CLU, and AWS Certified Cloud Practitioner. </p>
 <br/>  
 
 <div align="center">
