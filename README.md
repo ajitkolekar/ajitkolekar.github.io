@@ -1,5 +1,5 @@
 <h2 align="center"> Hi There!<br> My name is Ajit Kolekar</h2>
-<p align="center">I'm a well rounded IT professional with 23 years of experience. I'm currently serving State Farm Insurance as a __Scrum Master. I have a variety of technical, business, and leadership experience while performing roles as Project Manager, Scrum Master, Team Lead, Data Analyst, Java Developer, Host Developer, Subject Matter Consultant, Systems Analyst, and Service Analyst.
+<p align="center">I'm a well rounded IT professional with 23 years of experience. I'm currently serving State Farm Insurance as a Scrum Master. I have a variety of technical, business, and leadership experience while performing roles as Project Manager, Scrum Master, Team Lead, Data Analyst, Java Developer, Host Developer, Subject Matter Consultant, Systems Analyst, and Service Analyst.
 
 I have earned my Bachelors Degree in Electronics Engineering, Masters of Business Administation, and am currently working on Masters of Science in Data Science degree with expected completion date less than two months away! I believe in continuous learning and have earned several designations and certifications, such as PMP, CSM, SAFe Agilist, SASM, CPCU, ChFC, CLU, and AWS Certified Cloud Practitioner. </p>
 
