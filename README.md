@@ -1,11 +1,10 @@
 <h2 align="center"> Hi There!<br> My name is Ajit Kolekar</h2>
 <p align="justify">I'm a well rounded IT professional with 23 years of experience. I'm currently serving at State Farm Insurance as a Scrum Master. I have a variety of technical, business, and leadership experience while performing roles as Project Manager, Scrum Master, Team Lead, Data Analyst, Java Developer, Host Developer, Subject Matter Consultant, Systems Analyst, and Service Analyst.</p>
-
-<br/>
-
 <p align="justify">I have earned my Bachelors Degree in Electronics Engineering, Masters of Business Administation, and am currently working on Masters of Science in Data Science degree with expected completion date less than two months away! I believe in continuous learning and have earned several designations and certifications, such as PMP, CSM, SAFe Agilist, SASM, CPCU, ChFC, CLU, and AWS Certified Cloud Practitioner. </p>
-
 <br/>
+
+<!--
+
 <div align="center">
 <a href="https://github.com/ajitkolekar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -17,14 +16,13 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
+-->
 
 <br/>  
 <h2 align="center">Data Science Projects</h2>
 
 <h3 align="center">1. Targeting Customers for Marketing Campaign</h3>
 <p align="justify">Every retail organization spends millions of dollars on advertising to attract the customers to their stores. If the advertising is not done effectively, it is possible that the customers that received the promotional offers might not accept them, resulting in lost opportunity cost in the promotional offers. It is also possible that the customers that can be attracted to the store based on promotional offers might have not received the offers. It is important for the retail organizations to know which customers are the best suitable candidates to send promotional offers, so that the advertising budget can be optimally utilized. Data science machine learning models can play a significant role in identifying customer behavior by using historical data. If the retail organizations can use the machine learning models to predict the ideal customers, the advertising budget can be spent wisely by only targeting customers that are willing to accept promotional offers and spend money at the store.</p> 
-
 <br/>
-
 <h3 align="center">2. Determine chance of getting admitted to a specific university</h3>
 <p align="justify">After graduating with a bachelor’s degree, most of the international students face a decision about which university to select for their Master of Science program, and what are their chances to get into one of the universities they selected. Several universities have various requirements to determine which students should be admitted to their programs. Most international students are required to provide Test of English as a Foreign Language (TOEFL) exam scores since English is their secondary language. Most universities base their decisions on Graduate Record Examinations (GRE) scores as well. There are several other factors, such as student’s GPA and university ranking that are used by the universities for admissions.</p> 
