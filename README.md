@@ -3,6 +3,9 @@
 
 I have earned my Bachelors Degree in Electronics Engineering, Masters of Business Administation, and am currently working on Masters of Science in Data Science degree with expected completion date less than two months away! I believe in continuous learning and have earned several designations and certifications, such as PMP, CSM, SAFe Agilist, SASM, CPCU, ChFC, CLU, and AWS Certified Cloud Practitioner. </p>
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajit-kolekar-52229779/)
+
+
 <br/>
 <div align="center">
 <a href="https://github.com/ajitkolekar" target="_blank">
