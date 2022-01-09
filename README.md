@@ -17,4 +17,4 @@ I have earned my Bachelors Degree in Electronics Engineering, Masters of Busines
 </div>
 
 <br/>  
-## Data Science Projects
+<h2 align="center"> Data Science Projects</h2>
