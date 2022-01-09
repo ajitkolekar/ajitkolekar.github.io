@@ -8,7 +8,7 @@
 <br/>
 <div align="center">
 <a href="https://github.com/ajitkolekar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.twitter.com/ajitkolekar" target="_blank">
 <img src=https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
