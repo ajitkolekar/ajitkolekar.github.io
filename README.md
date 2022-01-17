@@ -19,7 +19,7 @@
 -->
 
 <br/>  
-<h2 align="center">Data Science Projects</h2>
+<h2 align="center">Data Science Projects Portfolio</h2>
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Targeting%20Customers%20for%20Marketing%20Campaign">1. Targeting Customers for Marketing Campaign</a></h3>
