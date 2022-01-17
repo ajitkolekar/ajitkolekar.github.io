@@ -1,4 +1,16 @@
 title: Ajit Kolekar
+social-network-links:
+  email: "ajit.kolekar18@gmail.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  github: ajitkolekar
+  twitter: ajitkolekar
+  linkedin: ajit-kolekar-52229779
+
+share-links-active:
+  email: true
+  twitter: true
+  github: true
+  linkedin: true
 #tagline: Data Science Projects Portfolio
 #author: Ajit Kolekar
 #description: > 
