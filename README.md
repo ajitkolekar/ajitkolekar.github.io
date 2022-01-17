@@ -21,7 +21,7 @@
 <br/>  
 <h2 align="center">Data Science Projects</h2>
 
-<h3 align="center">1. Targeting Customers for Marketing Campaign href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Targeting%20Customers%20for%20Marketing%20Campaign"</h3>
+<h3 align="center">a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Targeting%20Customers%20for%20Marketing%20Campaign" target="1. Targeting Customers for Marketing Campaign"</h3>
 <img align="center" src="images/Marketing-campaign-concept.jpg" width="500" height="300" />
 <p align="justify">Every retail organization spends millions of dollars on advertising to attract the customers to their stores. If the advertising is not done effectively, it is possible that the customers that received the promotional offers might not accept them, resulting in lost opportunity cost in the promotional offers. It is also possible that the customers that can be attracted to the store based on promotional offers might have not received the offers. It is important for the retail organizations to know which customers are the best suitable candidates to send promotional offers, so that the advertising budget can be optimally utilized. Data science machine learning models can play a significant role in identifying customer behavior by using historical data. If the retail organizations can use the machine learning models to predict the ideal customers, the advertising budget can be spent wisely by only targeting customers that are willing to accept promotional offers and spend money at the store.</p>
 <br/>
