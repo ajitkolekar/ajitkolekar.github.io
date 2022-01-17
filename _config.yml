@@ -1,5 +1,9 @@
 title: Ajit Kolekar
-author: Ajit Kolekar
+author:
+  name:  Ajit Kolekar
+  email: ajit.kolekar18@gmail.com
+  about: |
+    Hi, I'm Ajit Kolekar...
 tagline: Data Science Projects Portfolio
 aboutme: Hi, this is Ajit Kolekar.
 #social-network-links:
