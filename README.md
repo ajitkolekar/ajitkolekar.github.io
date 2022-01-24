@@ -37,7 +37,7 @@
 <br>
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Heart%20Failure%20Prediction">4. Heart Failure Prediction</a></h3>
-<img align="center" src="images/heart.jpg" width="500" height="300" />
+<img align="center" src="images/heart.jpeg" width="500" height="300" />
 <p align="justify">The most common cause of death globally is Cardiovascular Diseases. Approximately 18 million people die due to Cardiovascular Diseases every year, which is around 31% of all deaths. Heart failure is the most common event that can be caused by Cardiovascular Diseases. There are various factors that can contribute to Cardiovascular Diseases. Data Science Machine Learning Models can help analyze the factors that contribute to Cardiovascular Diseases and attempte to predict the preventative measures that need to be taken to avoid heart attacks.</p>
 <br>
 Reference: All images were downloaded from Google
