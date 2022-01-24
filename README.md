@@ -35,4 +35,9 @@
 <img align="center" src="images/fraud.jpg" width="500" height="200" />
 <p align="justify">Data Science is a new wave in the Technological field and it is used everywhere. It is an interdisciplinary field that comprises Data Analysis models, Machine Learning algorithms, and statistics for scientific methods. The goal of the research paper is to elaborate more on Data Science use in the financial sector, focusing on detecting and/or predicting fraud in the banking industry, and also learning what necessary planning methods are used to create a system to tackle banking fraud. The research paper focuses on key technologies involved in classifying transactions as either legitimate or fraudulent, based on transaction details, such as amount, merchant, location, time, and many more; identity fraud, where someone impersonates you and uses your personal information to steal money; phishing, where internet banking clients receive deceptive emails asking them to give account login, password, and personal details on a website which looks like the bank’s legitimate website.</p>
 <br>
+<h3 align="center">
+<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Heart%20Failure%20Prediction">4. Heart Failure Prediction</a></h3>
+<img align="center" src="images/heart.jpg" width="500" height="300" />
+<p align="justify">The most common cause of death globally is Cardiovascular Diseases. Approximately 18 million people die due to Cardiovascular Diseases every year, which is around 31% of all deaths. Heart failure is the most common event that can be caused by Cardiovascular Diseases. There are various factors that can contribute to Cardiovascular Diseases. Data Science Machine Learning Models can help analyze the factors that contribute to Cardiovascular Diseases and attempte to predict the preventative measures that need to be taken to avoid heart attacks.</p>
+<br>
 Reference: All images were downloaded from Google
