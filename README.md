@@ -40,4 +40,10 @@
 <img align="center" src="images/heart.jpeg" width="500" height="300" />
 <p align="justify">The most common cause of death globally is Cardiovascular Diseases. Approximately 18 million people die due to Cardiovascular Diseases every year, which is around 31% of all deaths. Heart failure is the most common event that can be caused by Cardiovascular Diseases. There are various factors that can contribute to Cardiovascular Diseases. Data Science Machine Learning Models can help analyze the factors that contribute to Cardiovascular Diseases and attempte to predict the preventative measures that need to be taken to avoid heart attacks.</p>
 <br>
+<h3 align="center">
+<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Stock%20Price%20Prediction">5. Stock Price Prediction</a></h3>
+<img align="center" src="images/stock.jpg" width="500" height="300" />
+<p align="justify">Stock price prediction is one of the most popular topics in the financial market since the financial market is always looking at maximizing their returns from their investments. Predicting stock prices is a very tricky subject since it is difficult to predict the movement of the stock in the future. New machine learning technologies have made it a little easy to predict the stock prices. The project undertook a task to build predictive analytics model to predict the stock prices in the future using historical data.</p>
+<br>
+
 Reference: All images were downloaded from Google
