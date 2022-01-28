@@ -45,5 +45,10 @@
 <img align="center" src="images/stock.jpg" width="500" height="300" />
 <p align="justify">Stock price prediction is one of the most popular topics in the financial market since the financial market is always looking at maximizing their returns from their investments. Predicting stock prices is a very tricky subject since it is difficult to predict the movement of the stock in the future. New machine learning technologies have made it a little easy to predict the stock prices. The project undertook a task to build predictive analytics model to predict the stock prices in the future using historical data.</p>
 <br>
+<h3 align="center">
+<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Telecom%20Customer%20Churn%20Prediction">6. Telecom Customer Churn Prediction</a></h3>
+<img align="center" src="images/churn.jpg" width="500" height="300" />
+<p align="justify">Customer churn is when a customer decides to leave a company for a different service provider. In general, a telecom company has an annual churn rate of 15 to 25 percent. Attracting a new customer is always challenging and expensive compared to retaining existing customers. Understanding customer behavior and predicting when the customer could leave the company is important to know, so that appropriate measures can be taken to retain such customers. Machine learning models can play a significant role in identifying customer behavior using historical data and can predict potential possibility of the customers leaving the company.</p>
+<br>
 
 Reference: All images were downloaded from Google
