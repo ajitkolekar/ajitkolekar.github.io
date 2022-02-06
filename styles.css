@@ -10,9 +10,9 @@ h1 {
     
   }
   p {
-    color: red;
+    color: blue;
     font-family: courier; 
     font-size: 160%;
     border: 2px solid powderblue;
-    margin: 250px;
+    margin: 100px;
   }
