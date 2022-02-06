@@ -1,6 +1,6 @@
 <h2 align="center">Ajit Kolekar</h2>
 
-<a href="/about.html">About Me</a> | <a href="/contact.html">Contact</a> | <a href="/resume.html">Resume</a>
+<a align="center" href="/about.html">About Me</a> | <a align="center" href="/contact.html">Contact</a> | <a align="center" href="/resume.html">Resume</a>
 
 <!--
 
