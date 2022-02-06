@@ -4,13 +4,13 @@ body {
     text-align: center;
 }
 h1 {
-    color: blue;
+    color: black;
     font-family: verdana;
     font-size: 200%;
     
   }
   p {
-    color: blue;
+    color: black;
     font-family: courier; 
     font-size: 150%;
     border: 2px solid powderblue;
