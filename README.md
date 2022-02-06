@@ -1,6 +1,6 @@
 <h2 align="center">Hi There!<br> My name is Ajit Kolekar</h2>
 
-<a href="/about.html">About Me</a>
+<a href="/about.html">About Me</a> | <a href="/contact.html">Contact</a> | <a href="/resume.html">Resume</a>
 
 <!--
 
