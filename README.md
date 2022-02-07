@@ -1,8 +1,3 @@
-<div align="center">
-<a href="/about.html">About Me</a> | <a href="/contact.html">Contact</a> | <a href="/docs/resume.pdf">Resume</a>
-</div>
-
-<br/>  
 <h2 align="center">Data Science Projects Portfolio</h2>
 
 <h3 align="center">
