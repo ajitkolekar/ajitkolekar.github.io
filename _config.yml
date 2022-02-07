@@ -1,5 +1,8 @@
 title: Ajit Kolekar
-description: <a href="/about.html">About Me</a> | <a href="/contact.html">Contact</a> | <a href="/docs/resume.pdf">Resume</a> 
+description: 
+<img align="center" src="../images/Ajit.JPG " width="200" height="225" />
+<br/>
+<a href="/about.html">About Me</a> | <a href="/contact.html">Contact</a> | <a href="/docs/resume.pdf">Resume</a> 
 avatar: /images/Ajit.JPG
 author:
   name:  Ajit Kolekar
