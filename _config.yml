@@ -1,4 +1,4 @@
-title: Ajit Kolekar Test
+title: Ajit Kolekar
 avatar: /images/Ajit.JPG
 author:
   name:  Ajit Kolekar
@@ -33,5 +33,5 @@ email: ajit.kolekar18@gmail.com
 twitter_username: ajitkolekar  
 github_username:  ajitkolekar
 ShowContactInfo: "True"
-default_column: "two"
+default_column: "one"
 theme: jekyll-theme-minimal
