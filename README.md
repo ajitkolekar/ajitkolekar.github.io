@@ -1,5 +1,5 @@
 <div align="center">
-<a href="/about.html">About Me</a> | <a href="/contact.html">Contact</a> | <a href="../docs/resume.pdf">Resume</a>
+<a href="/about.html">About Me</a> | <a href="/contact.html">Contact</a> | <a href="/docs/resume.pdf">Resume</a>
 </div>
 
 <br/>  
