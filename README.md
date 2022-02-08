@@ -31,8 +31,8 @@
 <br>
 
 <h3 align="center">
-<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Telecom%20Customer%20Churn%20Prediction">7. Cash Register Program in Python</a></h3>
-<img align="center" src="images/churn.jpg" width="500" height="200" />
+<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Cash%20Register%20Program">7. Cash Register Program in Python</a></h3>
+<img align="center" src="images/cash-register.jpg" width="500" height="400" />
 <br>
 
 Reference: All images were downloaded from Google
