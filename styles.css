@@ -3,12 +3,7 @@ body {
     background: lightblue;
     text-align: center;
 }
-h1 {
-    color: black;
-    font-family: Calibri;
-    font-size: 200%;
-}
-h2 {
+h1, h2, h3 {
     color: black;
     font-family: Calibri;
     font-size: 200%;
