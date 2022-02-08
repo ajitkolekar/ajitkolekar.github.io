@@ -60,7 +60,6 @@ textarea {
 fieldset {
     width: 250px;
     box-sizing: border-box;
-    margin-left: 136px;
     border: 1px solid #999;
     align-items: center;
 }
