@@ -1,4 +1,4 @@
-title:    Ajit Kolekar
+title: Ajit Kolekar
 tagline: Data Science Projects Portfolio
 description: 
   <img align="center" src="../images/Ajit.JPG " width="200" height="225" />
@@ -17,31 +17,4 @@ description:
     <img src="images/facebook.png" width="50" height="50" /></a>
   <br/>
   <br/>
-
-
-
-author:
-  name:  Ajit Kolekar
-  email: ajit.kolekar18@gmail.com
-  social:
-    github:  ajitkolekar
-    twitter: ajitkolekar
-#social-network-links:
-#  email: "ajit.kolekar18@gmail.com"
-#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  github: ajitkolekar
-#  twitter: ajitkolekar
-#  linkedin: ajit-kolekar-52229779
-
-#share-links-active:
-#  email: true
-#  twitter: true
-#  github: true
-#  linkedin: true
-
-email: ajit.kolekar18@gmail.com
-twitter_username: ajitkolekar  
-github_username:  ajitkolekar
-ShowContactInfo: "True"
-default_column: "one"
 theme: jekyll-theme-minimal
