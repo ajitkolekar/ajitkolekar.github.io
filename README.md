@@ -40,5 +40,9 @@
 <img align="center" src="images/airline.jpg" width="500" height="250" />
 <br>
 
+<h3 align="center">
+<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Pollution%20-%20Data%20Preparation">8. Pollution - Data Preparation</a></h3>
+<img align="center" src="images/pollution.jpg" width="500" height="250" />
+<br>
 
 Reference: All images were downloaded from Google
