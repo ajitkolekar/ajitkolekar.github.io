@@ -32,7 +32,7 @@
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Cash%20Register%20Program">7. Cash Register Program in Python</a></h3>
-<img align="center" src="images/cash-register.jpg" width="500" height="400" />
+<img align="center" src="images/cash-register.jpg" width="500" height="300" />
 <br>
 
 Reference: All images were downloaded from Google
