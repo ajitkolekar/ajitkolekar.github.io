@@ -35,4 +35,10 @@
 <img align="center" src="images/cash-register.jpg" width="500" height="300" />
 <br>
 
+<h3 align="center">
+<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Airline%20Safety%20-%20Data%20Visualization">8. Airline Safety - Data Visualization</a></h3>
+<img align="center" src="images/airline.jpg" width="500" height="250" />
+<br>
+
+
 Reference: All images were downloaded from Google
