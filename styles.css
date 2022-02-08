@@ -27,6 +27,7 @@ ul {
 form {
     margin: 0 auto;
     width: 400px;
+    align-items: center;
     padding: 1em;
 }
 
