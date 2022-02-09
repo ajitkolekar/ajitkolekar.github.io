@@ -50,8 +50,6 @@ Reference: All images were downloaded from Google
 
 <section class="page-section portfolio" id="portfolio">
     <div class="container">
-        <!-- Portfolio Section Heading-->
-        <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Portfolio</h2>
         <!-- Icon Divider-->
         <div class="divider-custom">
             <div class="divider-custom-line"></div>
@@ -62,7 +60,7 @@ Reference: All images were downloaded from Google
         <div class="row justify-content-center">
             <!-- Portfolio Item 1-->
             <div class="card"  onclick="window.location.href='https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Pollution%20-%20Data%20Preparation'" >
-                <img src="images/pollution.jpg" alt="Avatar" width="250" height="150">
+                <img align="center" src="images/pollution.jpg" alt="Avatar" width="250" height="150">
                 <div class="container">
                     <h4 align="center"><b>Pollution - Data Preparation</b></h4> 
                 </div>
