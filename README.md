@@ -46,14 +46,3 @@
 <br>
 
 Reference: All images were downloaded from Google
-
-
-<div class="row justify-content-center">
-    <!-- Portfolio Item 1-->
-    <div class="card"  onclick="window.location.href='https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Targeting%20Customers%20for%20Marketing%20Campaign" >
-        <img src="images/Marketing-campaign-concept.jpg" alt="Avatar" style="width:100%">
-        <div class="container">
-            <h4><b>Marketing Campaign</b></h4> 
-        </div>
-    </div>
-</div>
