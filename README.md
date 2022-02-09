@@ -62,7 +62,7 @@ Reference: All images were downloaded from Google
         <div class="row justify-content-center">
             <!-- Portfolio Item 1-->
             <div class="card"  onclick="window.location.href='https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Pollution%20-%20Data%20Preparation'" >
-                <img src="images/pollution.jpg" alt="Avatar" style="width:100%">
+                <img src="images/pollution.jpg" alt="Avatar" width="500" height="300">
                 <div class="container">
                     <h4><b>Pollution - Data Preparation</b></h4> 
                 </div>
