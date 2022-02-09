@@ -1,6 +1,6 @@
 <h2 align="center">Data Science Projects Portfolio</h2>
 
-![alt-text-1](images/fraud.png) ![alt-text-2](images/heart.png)
+![alt-text-1](images/fraud.jpg) ![alt-text-2](images/heart.jpg)
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Targeting%20Customers%20for%20Marketing%20Campaign">1. Targeting Customers for Marketing Campaign</a></h3>
