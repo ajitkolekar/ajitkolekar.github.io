@@ -59,8 +59,5 @@
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Twitter%20Sentiment%20Analysis"><img align="center" src="images/twitter.jpeg" width="300" height="150" /><br>Twitter Sentiment Analysis</a></h3>
 <br>
 
-<p align="center">_______________________________________________________</p>
-
-<br>
 <p align="center">Reference: All images were downloaded from Google</p>
 
