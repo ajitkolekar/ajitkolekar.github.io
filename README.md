@@ -36,12 +36,12 @@
 <br>
 
 <h3 align="center">
-<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Airline%20Safety%20-%20Data%20Visualization">8. Airline Safety - Data Visualization</a></h3>
-<img align="center" src="images/airline.jpg" width="500" height="250" />
+<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Airline%20Safety%20-%20Data%20Visualization">
+<img align="center" src="images/airline.jpg" width="300" height="150" /><br>Airline Safety - Data Visualization</a></h3>
 <br>
 
 <h3 align="center">
-<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Airline%20Safety%20-%20Data%20Visualization"><img align="center" src="images/pollution.jpg" width="300" height="150" /><br>Pollution - Data Visualization</a></h3>
+<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Pollution%20-%20Data%20Preparation"><img align="center" src="images/pollution.jpg" width="300" height="150" /><br>Pollution - Data Preparation</a></h3>
 <br>
 
 <h3 align="center">
