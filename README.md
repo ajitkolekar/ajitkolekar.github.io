@@ -41,13 +41,11 @@
 <br>
 
 <h3 align="center">
-<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Airline%20Safety%20-%20Data%20Visualization">9. Pollution - Data Visualization 
-<img align="center" src="images/pollution.jpg" width="500" height="250" /></a></h3>
+<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Airline%20Safety%20-%20Data%20Visualization">9. Pollution - Data Visualization<img align="center" src="images/pollution.jpg" width="500" height="250" /></a></h3>
 <br>
 
 <h3 align="center">
-<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Twitter%20Sentiment%20Analysis">10. Twitter Sentiment Analysis</a></h3>
-<img align="center" src="images/twitter.jpeg" width="500" height="250" />
+<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Twitter%20Sentiment%20Analysis">10. Twitter Sentiment Analysis<img align="center" src="images/twitter.jpeg" width="500" height="250" /></a></h3>
 <br>
 
 Reference: All images were downloaded from Google
