@@ -2,7 +2,7 @@
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Targeting%20Customers%20for%20Marketing%20Campaign">
-<img align="center" src="images/Marketing-campaign-concept.jpg" width="300" height="150"/><br>Targeting Customers for Marketing Campaign</a></h3>
+<img align="center" src="images/Marketing-campaign-concept.jpg" width="300" height="150"/><br>Marketing Campaign</a></h3>
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Determine%20chance%20of%20getting%20admitted%20to%20a%20specific%20university">
@@ -10,7 +10,7 @@
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Combating%20Fraudulent%20Transactions">
-<img align="center" src="images/fraud.jpg" width="300" height="150" /><br>Combating Fraudulent Transactions - Research Paper</a></h3>
+<img align="center" src="images/fraud.jpg" width="300" height="150" /><br>Combating Fraud - Research Paper</a></h3>
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Heart%20Failure%20Prediction">
