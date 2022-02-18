@@ -16,8 +16,8 @@ description:
   <a href="https://www.facebook.com/ajit.kolekar" target="_blank">
     <img src="images/facebook.png" width="50" height="50" /></a>
   <br/>
-  <h3 align="center">Data Science Skills</h3>
-  <p align="justify">Python Programming, R Programming, Data Preparation (Wrangling), Data Mining, Exploratory Data Analysis, 
+  <h3>Data Science Skills</h3>
+  <p>Python Programming, R Programming, Data Preparation (Wrangling), Data Mining, Exploratory Data Analysis, 
   Predictive Analytics, Machine Learning, Data Visualization, and Big Data</p>
 
 theme: jekyll-theme-minimal
