@@ -42,7 +42,7 @@
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Airline%20Safety%20-%20Data%20Visualization">9. Pollution - Data Visualization</a></h3>
-<img align="center" src="images/airline.jpg" width="500" height="250" />
+<img align="center" src="images/pollution.jpg" width="500" height="250" />
 <br>
 
 <h3 align="center">
