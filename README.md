@@ -10,7 +10,7 @@
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Combating%20Fraudulent%20Transactions">
-<img align="center" src="images/fraud.jpg" width="500" height="200" /><br>Combating Fraudulent Transactions - Research Paper</a></h3>
+<img align="center" src="images/fraud.jpg" width="300" height="150" /><br>Combating Fraudulent Transactions - Research Paper</a></h3>
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Heart%20Failure%20Prediction">
