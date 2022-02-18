@@ -41,11 +41,11 @@
 <br>
 
 <h3 align="center">
-<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Airline%20Safety%20-%20Data%20Visualization"><img align="center" src="images/pollution.jpg" width="400" height="200" />Pollution - Data Visualization</a></h3>
+<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Airline%20Safety%20-%20Data%20Visualization"><img align="center" src="images/pollution.jpg" width="300" height="150" />Pollution - Data Visualization</a></h3>
 <br>
 
 <h3 align="center">
-<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Twitter%20Sentiment%20Analysis"><img align="center" src="images/twitter.jpeg" width="400" height="200" />Twitter Sentiment Analysis</a></h3>
+<a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Twitter%20Sentiment%20Analysis"><img align="center" src="images/twitter.jpeg" width="300" height="150" />Twitter Sentiment Analysis</a></h3>
 <br>
 
 Reference: All images were downloaded from Google
