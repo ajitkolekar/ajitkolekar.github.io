@@ -38,11 +38,9 @@
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Airline%20Safety%20-%20Data%20Visualization">
 <img align="center" src="images/airline.jpg" width="300" height="150" /><br>Airline Safety - Data Visualization</a></h3>
-<br>
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Pollution%20-%20Data%20Preparation"><img align="center" src="images/pollution.jpg" width="300" height="150" /><br>Pollution - Data Preparation</a></h3>
-<br>
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Twitter%20Sentiment%20Analysis"><img align="center" src="images/twitter.jpeg" width="300" height="150" /><br>Twitter Sentiment Analysis</a></h3>
