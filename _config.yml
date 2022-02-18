@@ -17,7 +17,7 @@ description:
     <img src="images/facebook.png" width="50" height="50" /></a>
   <br/>
   <h3>Data Science Skills</h3>
-  <p>Python Programming&#10;&#10;R Programming&#10;Data Preparation (Wrangling), Data Mining, Exploratory Data Analysis, 
+  <p>Python Programming&#10;&#13;R Programming&#10;Data Preparation (Wrangling), Data Mining, Exploratory Data Analysis, 
   Predictive Analytics, Machine Learning, Data Visualization, and Big Data</p>
 
 theme: jekyll-theme-minimal
