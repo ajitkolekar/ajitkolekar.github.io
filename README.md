@@ -54,6 +54,7 @@
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Airline%20Safety%20-%20Data%20Visualization">
 <img align="center" src="images/airline.jpg" width="300" height="150" /><br>Airline Safety - Data Visualization</a></h3>
+<p align="center">Use of Python programming, R programming, and Tableau software to visualize airline safety data through dashboard, blog post, infographic, and executive summary </p>
 
 <p align="center">___________________________________________________________________________________</p>
 
