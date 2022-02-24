@@ -54,7 +54,7 @@
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Airline%20Safety%20-%20Data%20Visualization">
 <img align="center" src="images/airline.jpg" width="300" height="150" /><br>Airline Safety - Data Visualization</a></h3>
-<p align="center">Use of Python programming, R programming, and Tableau software to visualize airline safety data through dashboard, blog post, infographic, and executive summary</p>
+<p align="center">Use of Python programming, R programming, and Tableau software to visualize airline safety data through dashboard and infographic</p>
 
 <p align="center">___________________________________________________________________________________</p>
 
@@ -66,6 +66,7 @@
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Twitter%20Sentiment%20Analysis"><img align="center" src="images/twitter.jpeg" width="300" height="150" /><br>Twitter Sentiment Analysis</a></h3>
+<p align="center">Use of Python programming, vectorization techniques (Count Vectorizer and TF-IDF Vectorizer) and machine learning models (MLP Classifier and Keras Sequential Classifier) to predict sentiments of tweets</p> 
 <br>
 
 <p align="center">Reference: All images were downloaded from Google</p>
