@@ -5,7 +5,7 @@
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Targeting%20Customers%20for%20Marketing%20Campaign">
 <img align="center" src="images/Marketing-campaign-concept.jpg" width="300" height="150"/><br>Marketing Campaign</a></h3>
-
+<p align="center">Use of machine learning models (Logistic Regression, Random Forest Classifier, and Decision Tree Classifier) to predict ideal customers for marketing campaign</p> 
 <p align="center">_______________________________________________________</p>
 
 <h3 align="center">
