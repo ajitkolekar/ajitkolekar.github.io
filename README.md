@@ -12,19 +12,21 @@
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Determine%20chance%20of%20getting%20admitted%20to%20a%20specific%20university">
 <img align="center" src="images/Admission-banner.jpg" width="300" height="150" /><br>University Admission Prediction</a></h3>
-<p align="center">Use of machine learning models (Logistic Regression, Random Forest Regression, and Ridge Regression) to predict chances of getting admitted to specific university based on credentials</p> 
+<p align="center">Use of machine learning models (Logistic Regression, Random Forest Regression, and Ridge Regression) to predict chances of getting admitted to a specific university based on credentials</p> 
 
 <p align="center">___________________________________________________________________________________</p>
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Combating%20Fraudulent%20Transactions">
 <img align="center" src="images/fraud.jpg" width="300" height="150" /><br>Combating Fraud - Research Paper</a></h3>
+<p align="center">Research paper that focuses on key data science technologies involved in classifying transactions as either legitimate or fraudulent</p> 
 
 <p align="center">___________________________________________________________________________________</p>
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Heart%20Failure%20Prediction">
 <img align="center" src="images/heart.jpeg" width="300" height="150" /><br>Heart Failure Prediction</a></h3>
+<p align="center">Use of R programming language and machine learning models (Logistic Regression and K Nearest Neighbors) to predict possibilities of heart failure</p> 
 
 <p align="center">___________________________________________________________________________________</p>
 
