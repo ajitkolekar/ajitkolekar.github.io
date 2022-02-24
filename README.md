@@ -60,7 +60,7 @@
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Pollution%20-%20Data%20Preparation"><img align="center" src="images/pollution.jpg" width="300" height="150" /><br>Pollution - Data Preparation</a></h3>
-<p align="center">Use of Python programming for preparing and visualizing pollution data retrieved from multiple sources, such as Website (HTML), API (JSON) and CSV; and joining the data using SQL</p>
+<p align="center">Use of Python programming for preparing and visualizing pollution data retrieved from multiple sources, such as Website (HTML), API (JSON), and CSV; and joining the data using SQL</p>
 
 <p align="center">___________________________________________________________________________________</p>
 
