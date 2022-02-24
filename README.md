@@ -12,7 +12,7 @@
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Determine%20chance%20of%20getting%20admitted%20to%20a%20specific%20university">
 <img align="center" src="images/Admission-banner.jpg" width="300" height="150" /><br>University Admission Prediction</a></h3>
-<p align="center">Use of machine learning models (Logistic Regression, Random Forest Regression, and Ridge Regression) to predict chances of getting admitted to specific unviversity based on credentials</p> 
+<p align="center">Use of machine learning models (Logistic Regression, Random Forest Regression, and Ridge Regression) to predict chances of getting admitted to specific university based on credentials</p> 
 
 <p align="center">___________________________________________________________________________________</p>
 
