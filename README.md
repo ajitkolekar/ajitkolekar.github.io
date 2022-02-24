@@ -40,12 +40,14 @@
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Telecom%20Customer%20Churn%20Prediction">
 <img align="center" src="images/churn.jpg" width="300" height="150" /><br>Telecom Customer Churn Prediction</a></h3>
+<p align="center">Use of Python programming and machine learning models (K Neighbors Classifier, Support Vector Classifier, and Gradient Boosting Classifier) to predict the churn of telecommunications customers</p> 
 
 <p align="center">___________________________________________________________________________________</p>
 
 <h3 align="center">
 <a href="https://github.com/ajitkolekar/Data-Science-Projects/tree/main/Cash%20Register%20Program">
 <img align="center" src="images/cash-register.jpg" width="300" height="150" /><br>Cash Register Program in Python</a></h3>
+<p align="center">Use of Python programming as a mechanism to replicate cash register at a store</p>
 
 <p align="center">___________________________________________________________________________________</p>
 
